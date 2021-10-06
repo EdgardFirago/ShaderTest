@@ -5,7 +5,7 @@ StensilBufferShader
 ![BulletHole](https://github.com/EdgardFirago/ShaderTest/blob/main/GIF/Desolve.gif)
 
 DesolveShader
-![Desolve](Desolve.gif)
+![Desolve](https://github.com/EdgardFirago/ShaderTest/blob/main/GIF/geom.gif)
 
 Geometry shader
-![Geometry](geom.gif)
+![Geometry](https://github.com/EdgardFirago/ShaderTest/blob/main/GIF/stensil.gif)
