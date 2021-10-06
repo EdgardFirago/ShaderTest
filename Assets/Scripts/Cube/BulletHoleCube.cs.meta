@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ce5b217e37b61f642b9685c91e28c0e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Decal: {fileID: 4499120547488613424, guid: 427d5d2734608d541b586abd58bd5fbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
