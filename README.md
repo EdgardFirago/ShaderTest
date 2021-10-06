@@ -3,7 +3,7 @@
 
 StensilBufferShader
 
-![Stensil](https://github.com/EdgardFirago/ShaderTest/blob/main/GIF/stensil.gi)
+![Stensil](https://github.com/EdgardFirago/ShaderTest/blob/main/GIF/stensil.gif)
 
 DesolveShader
 
